@@ -1,10 +1,12 @@
 # AI Retail Intelligence Copilot
 
+> **Status**: 🚧 Under Development - Hackathon Prototype
+
 An AI-powered decision-support system designed for small ecommerce sellers, D2C founders, and marketplace vendors who need actionable business intelligence without enterprise-level complexity.
 
-## What It Does
+## What It Will Do
 
-The AI Retail Intelligence Copilot transforms sales data into clear, explainable business recommendations through:
+The AI Retail Intelligence Copilot will transform sales data into clear, explainable business recommendations through:
 
 - **Conversational AI Interface** – Ask business questions in plain language and get actionable insights
 - **Demand Forecasting** – Predict future sales with confidence intervals and transparent explanations
@@ -27,13 +29,13 @@ Small ecommerce sellers, online marketplace vendors, and retail business owners 
 
 ## Documentation
 
-- **[Requirements Document](.kiro/specs/ai-retail-copilot/requirements.md)** – Detailed user stories, acceptance criteria, and functional requirements
-- **[Design Document](.kiro/specs/ai-retail-copilot/design.md)** – System architecture, components, data models, and API specifications
-- **[Task List](.kiro/specs/ai-retail-copilot/tasks.md)** – Implementation roadmap and development tasks
+- **[Requirements Document](requirements.md)** – Detailed user stories, acceptance criteria, and functional requirements
+- **[Design Document](design.md)** – System architecture, components, data models, and API specifications
+- **Task List** – Implementation roadmap and development tasks
 
-## Quick Start
+## Planned User Experience
 
-1. Upload your sales data (CSV format) or generate synthetic demo data
+1. Upload sales data (CSV format) or generate synthetic demo data
 2. View the dashboard for instant insights on revenue, trends, and alerts
 3. Ask the AI Copilot questions like:
    - "Which products should I reorder soon?"
@@ -50,12 +52,16 @@ Small ecommerce sellers, online marketplace vendors, and retail business owners 
 
 ## Hackathon Scope
 
-This is a prototype demonstration focusing on:
+This prototype will focus on:
 - Explainable AI outputs with transparent limitations
 - Simplified ML models (time series analysis, elasticity estimation)
 - Synthetic datasets for demonstration purposes
 - Modular architecture designed for incremental enhancement
 
+## Development Status
+
+Currently in the design and planning phase. See the Task List for implementation progress.
+
 ---
 
-**Built for sellers who need smart insights, not complex analytics tools.**
+**Building a solution for sellers who need smart insights, not complex analytics tools.**
